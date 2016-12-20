@@ -4,10 +4,10 @@ if "#{speak}"=="I LOVE YOU GRANDMA!"
 elsif "#{speak}".upcase=="#{speak}"
   return "NO, NOT SINCE 1938!"
 else
-return"HUH?! SPEAK UP SONNY!"
+return"HUH?! SPEAK UP, SONNY!"
     # Write a speak_to_grandma method.
   end
-
+end
 
 
 
